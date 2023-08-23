@@ -1,4 +1,7 @@
 ### Sejam bem-vindos! Eu sou o Cleberson Siqueira! 👋
+Bacharelando em Ciências da Computação, Graduado em Gestão Pública com Especialização em Gestão de Políticas Públicas e Pós em Gestão Administrativa. 
+Apaixonado por educação e tecnologia, em busca de evolução pessoal.
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/clebersiqueira.cfs/)
 
 
@@ -14,5 +17,3 @@
 </div>
 <br><br>
 
-Bacharelando em Ciências da Computação, Graduado em Gestão Pública com Especialização em Gestão de Políticas Públicas e Pós em Gestão Administrativa. 
-Apaixonado por educação e tecnologia, em busca de evolução pessoal.
