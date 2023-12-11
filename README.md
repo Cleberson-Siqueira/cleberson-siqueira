@@ -1,5 +1,4 @@
 ### Sejam bem-vindos! Eu sou o Cleberson Siqueira! 👋
-Bacharelando em Ciências da Computação, Graduado em Gestão Pública com MBA em Gestão de Políticas Públicas e Pós em Gestão Administrativa. 
 Apaixonado por educação e tecnologia, em busca de evolução pessoal.
 
 ![Siqueira GitHub stats](https://github-readme-stats.vercel.app/api?username=cleberson-siqueira&show_icons=true&theme=dark)
